@@ -1,1 +1,1 @@
-# Smart-Planner
+# Smart Planner Application
