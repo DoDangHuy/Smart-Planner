@@ -62,7 +62,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="CN"
+                android:text="Sun"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/over"/>
@@ -70,7 +70,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="T.2"
+                android:text="Mon"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/black"/>
@@ -78,7 +78,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="T.3"
+                android:text="Tue"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/black"/>
@@ -86,7 +86,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="T.4"
+                android:text="Wed"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/black"/>
@@ -94,7 +94,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="T.5"
+                android:text="Thu"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/black"/>
@@ -102,7 +102,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="T.6"
+                android:text="Fri"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/black"/>
@@ -110,7 +110,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="T.7"
+                android:text="Sat"
                 android:textSize="16sp"
                 android:gravity="center_horizontal"
                 android:textColor="@color/black"/>
