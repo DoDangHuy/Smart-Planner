@@ -9,11 +9,15 @@
     android:background="@color/bg_color"
     android:orientation="vertical">
 
+
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/view_pager_main"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@+id/bottom_Menu" />
+        android:layout_above="@+id/bottom_Menu"
+        />
+
+
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_Menu"
@@ -24,5 +28,6 @@
         app:itemIconTint="@color/color_menu_bottom"
         app:itemTextColor="@color/color_menu_bottom"
         app:menu="@menu/menu_bottom_navigation" />
+
 
 </RelativeLayout>

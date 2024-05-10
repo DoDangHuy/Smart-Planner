@@ -20,9 +20,9 @@ import java.util.ArrayList;
 public class SettingFragment extends Fragment {
     private Context mContext;
 
-    private String[] Titles ={"Notification", "Theme", "About"};
-    private String[] Contents = {"Setting notification", "Setting theme", "All about you"};
-    private  int[] Images = {R.drawable.ic_baseline_settings_24, R.drawable.ic_baseline_settings_24, R.drawable.ic_baseline_settings_24};
+    private String[] Titles ={"Feedback", "About"};
+    private String[] Contents = {"Setting Feedback", "All about you"};
+    private  int[] Images = {R.drawable.ic_baseline_settings_24, R.drawable.ic_baseline_settings_24};
 
     @Nullable
     @Override
